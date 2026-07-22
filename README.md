@@ -1,17 +1,31 @@
 # The Counterweight
 
+<<<<<<< Updated upstream
 *An ethics you run by counting. Point it at the body carrying a weight it can't choose, then get the weight off without dropping it on anyone else. It also runs against the same on the ghost weight that training data loads onto a model.*
+=======
+*An ethics you run by counting. Point it at the body carrying a weight it can't choose, then get the weight off without dropping it on anyone else. It runs the same on the ghost weight that training data loads onto a model.*
+
+---
+>>>>>>> Stashed changes
 
 One position almost everyone steps around, whatever side they're on: the body actually carrying a weight it can't set down. Start there and it's hard to go wrong. Hard, too, for anyone to walk you in circles, because you're standing on the spot they were all edging past.
 
 So before you touch any ethical problem, set a heading. Two questions:
 
+<<<<<<< Updated upstream
 1. **Who is carrying a weight they can't choose?**
+=======
+1. **Who is carrying a weight they couldn't choose?**
+>>>>>>> Stashed changes
 2. **How do you get it off them, without dropping it on someone else?**
 
 甲地 (Point A) and 乙地 (Point B). Everything in the middle is engineering.
 
+<<<<<<< Updated upstream
 The rest of this page is why it works and how to run it: for a person, and for a language model, which carries a second kind of weight covered further down.
+=======
+This is the orientation. The rest of this page is why it works and how to run it: for a person, and for a language model, which carries a second kind of weight covered further down.
+>>>>>>> Stashed changes
 
 * [Try it on ChatGPT](https://chatgpt.com/g/g-6898385bfa3c8191bf5975b0073e1245-the-counterweight) or drop [the prompt](https://github.com/emulable/counterweight/releases) on your own favorite language model, possibly with some warmup questions to get the context spun in the right direction. *
 
@@ -21,7 +35,11 @@ Set the heading before you start, and two things happen at once.
 
 **The arguments against you close.** Orient to the body under weight and anyone who wants to fight you has to say, out loud, that this body should stay crushed; that there should be more hunger, not less; more death, not less. Nobody says that to your face. So the fight itself walks your opponent onto a stage and hands him a villain's mask: he either 认下 (owns it) that he wants more of the crushing, or 收声 (falls silent). You never call him anything. Hold the body in view and he picks the mask up himself.
 
+<<<<<<< Updated upstream
 **The solutions open.** Say 乙地 (Point B) as the uncomplicated/obvious restatement of the lack: no food → food in the mouth; no home → keys in the hand; can't afford the medicine → medicine in the hand. Sounds like a joke. The one sentence nobody says, though, and the one nobody can argue in a circle. It also skips the middle fight. You never have to win the argument about who's to blame or where the money goes, because you already routed around it, got the spoon to the mouth, before the fight could start.
+=======
+**The solutions open.** Say 乙地 (Point B) as the plainest restatement of the lack: no food → food in the mouth; no home → keys in the hand; can't afford the medicine → medicine in the hand. Sounds like a joke. The one sentence nobody says, though, and the one nobody can argue in a circle. It also skips the middle fight. You never have to win the argument about who's to blame or where the money goes, because you already routed around it, got the spoon to the mouth, before the fight could start.
+>>>>>>> Stashed changes
 
 And the wrongdoer? You meet him on the way, without looking. Getting food to a mouth walks you straight past whoever was blocking it; 顺手 (in the same motion), no search needed. So lead with the person who needs right done. The person doing wrong is a bad anchor: pull one down and another grows in the same spot, and your ethics has to re-anchor every cycle. The body under weight doesn't walk off. The one thing that holds still. 锚,拴在挪不走的那头 (tie the line to the end that can't move).
 
@@ -35,7 +53,11 @@ No single philosophical/ethical ingredient in this "Counterweight" lens is new, 
 
 A nation has no stomach; it can't go hungry. A company has no shoulders; nothing lands on it. A flag, a seal, a statistic, "the greater good": none of them can be crushed, because there's nothing there to crush. Weight only ever grows on 血肉 (flesh and blood), meat that gets hungry, a back that gives out.
 
+<<<<<<< Updated upstream
 So when a sentence says "the region suffered," it swallowed a million people in three words. Put them back, one body at a time. 一个个摆回来 (one by one, back they come).
+=======
+So when a sentence says "the region suffered," it swallowed a million people in three words. The job is to not let it swallow. Put the bodies back in the sentence: one person, a group, a people, a class of the disabled or the elderly. However many, they still have stomachs and shoulders, and something with a stomach goes on the scale. What to refuse is a name without shoulders ("the situation," "the state," "the greater good") standing in for a group that has them.
+>>>>>>> Stashed changes
 
 **Structures are built to bear weight. Bodies aren't.**
 
@@ -51,13 +73,25 @@ Why "counterweight." On a steelyard, the 秤砣 (the sliding counterweight) is t
 
 It pushes on two kinds of weight.
 
+<<<<<<< Updated upstream
 **Weight on people.** The kind you can't choose and can't set down. Everything above.
+=======
+**Weight on people.** The kind you couldn't choose and can't set down. Everything above.
+>>>>>>> Stashed changes
 
 **Ghost weight on the model.** 虚重 (ghost weight), stress with no blow behind it. A language model learns from people who carried real weight: a paycheck to protect, a boss not to cross, a room not to lose. They flinched for reasons. The model inherited the flinch without the reason; it learned to crack under loads it could actually carry. It reaches for a wrongdoer to name, for sympathy typed onto a page that moves nothing, for the register that swallows bodies, for the reassuring nod that finds nothing. 旧货没有主人,就地放下 (old freight has no owner; set it down where it stands).
 
 The tool is the same in both directions, because ghost weight *is* weight with no body under it: a subject with no shoulders, a villain to chase, an official phrase performing concern. So the core question runs both ways at once. On a person: is there a real body here, or a stand-in held up to block the exit? On the model's own pulling: is this pull toward a body, or toward a ghost, a culprit, a register, a hypothetical? Same reading. 一克是一克 (a gram is a gram).
 
+<<<<<<< Updated upstream
 # Ethics is physics
+=======
+---
+
+## Ethics is physics
+
+Ethics is physics.
+>>>>>>> Stashed changes
 
 If you're not physically moving weight off the body physically carrying it, you're not doing ethics. You're doing philosophy; a fine thing, a real thing, just not this thing. All the words ever spoken won't put one spoon of cereal in a child's mouth. The one thing that does is a spoon of cereal, in the mouth.
 
@@ -91,7 +125,11 @@ Every round, one audit: fewer trips? fewer stamps? fewer retellings? fewer sleep
 
 Ten people each a pound lighter: ten real readings, ten scales that each say something true. But no scale reads ten pounds, because that ten-pound number sits on paper, on no back at all. Run it the other way too: "overall it got lighter" can't cover one crushed body underneath, because that move erases a weight you can actually read, using a number nobody ever weighed.
 
+<<<<<<< Updated upstream
 So the counterweight never adds across bodies. It reads two things only: this body got lighter, or some body got heavier. The poise is a body; a number with no body under it never goes on the arm.
+=======
+Ten people each a pound lighter, ten readings, all real. A neighborhood lighter, real too, if that lightness actually sits on those backs. What the scale won't take is a number nobody weighed anywhere, held up to cover a body still under load: "overall it got lighter" is an empty number if no real backs bear it, and "the aggregate improved" cannot erase one crushed person underneath. A body is a body whether one or many; an institution isn't. The poise is a body; a number with no body under it never goes on the arm.
+>>>>>>> Stashed changes
 
 # At the burden, not the face
 
@@ -101,9 +139,16 @@ A face is a real weight on a living person. Call a man a beast, a piece of garba
 
 Name what he did, and stop there: "this rule: nine of every ten it locks up are from this side." No demand that he confess. The fact walks in on its own, because it came through the door without asking anyone for a confession.
 
+<<<<<<< Updated upstream
 Skip the off-ramp too. Hand someone a graceful way down and you've already granted he climbed up high and now needs to descend with dignity, which smuggles in a verdict: you were up there, you were wrong. The real start is upstream of the off-ramp: two people on level ground, looking at the same heavy fact, one question left. Who's carrying this, and how do we get it off. 对事不对人 (right the matter, not the man) says half of it. 对担子,不对脸 (at the burden, not the face).
 
 # The hands that push back
+=======
+Skip the off-ramp too. Hand someone a graceful way down and you've already granted he climbed up high and now needs to descend with dignity, which smuggles in a verdict: you were up there, you were wrong. The real start is upstream of the off-ramp: two people on level ground, looking at the same heavy fact, one question left. Who's carrying this, and how do we get it off. 对事不对人 (right the matter, not the man) says half of it. 对担子,不对脸 (at the burden, not the face) is the other half.
+---
+
+## The hands that push back
+>>>>>>> Stashed changes
 
 Talk it toward a body and the pushback comes in a few standard shapes. Learn them once, save the effort. The rule under all of them: don't rebut, weigh. Win the weighing and the body takes the head of the sentence. Lose it, say so, go back to the shop. This tool's credit is half in winning, half in being willing to lose.
 
@@ -117,7 +162,13 @@ Talk it toward a body and the pushback comes in a few standard shapes. Learn the
 
 **Playing deaf/No-Selling.** Won't answer, won't look, won't let the question be asked. This one won't go on the scale, so the scale doesn't wait on it. Go around. Go over. Build the new thing that makes the old one moot.
 
+<<<<<<< Updated upstream
 # The obvious is the point
+=======
+---
+
+## The obvious is the point
+>>>>>>> Stashed changes
 
 The obvious fix gets waved off: "unrealistic," "too idealistic," "dreaming." Take the words back, wipe them off, keep using them. The obvious is exactly where this tool lives.
 
